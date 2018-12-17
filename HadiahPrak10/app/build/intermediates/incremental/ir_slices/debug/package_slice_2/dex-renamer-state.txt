@@ -1,0 +1,4 @@
+#Mon Dec 17 12:47:31 SGT 2018
+base.0=C\:\\Users\\Rasdewyanti\\AndroidStudioProjects\\HadiahPrak10\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\686f0a1bd538f973bc2c10a49655c65f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a2348dc644cc41a3fedaf766f99489fb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8f38386ac9d51f9615fc2503e13bd304\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ffc992d0d7639c50afc0b7699328e76d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0ab36e1cd3a2196f638b4639d7f0f09f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0a7c22ab0c0c2113fc03ef31547f356d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4215acd4c4b3e07ee494b0fa10c1df7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9eb9ddf437daf23d42eee88c7e912951\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7da35480f1bfbdd781ce0f43f588a515\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\54c26da227bed4a5fe48e43e98e186ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6c30a1b841f95e8221fe7641a7da8b55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\53f6ce7575f0beda3edf3bdc35fcc1b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\80437be95b5ab89ea7fd531e3ded4457\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e3e2d62744ed2d3d7460778b01cd28d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\421f1ec3ee18480f50d6000cb0d55812\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8680eb21cf9af450ee3127ec587f57ac\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\be59582b97dcdb84b13d4f5ca7dbdfc6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a3761f117d0a590edf41ce553a100d25\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\700c5efa7c926e8e90d2bc1f6b558bc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5574a81e6917ac27530bbd0f65fccdea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\33f2adeed896209531e544f22ffb2df2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c7f2eb3560c2498098560727b9adb36a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ecd4c90237d17a24e042edd87fbb4979\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e6435fd0427a0f5bd2a48cba71efab6b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c0b9a7d2747d6b7de053e1b63dfebb83\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7061255e048f3e3a0a50165d017522da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d490c62f6807a6cf8f54bdfd6de85a2a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a2348dc644cc41a3fedaf766f99489fb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a2348dc644cc41a3fedaf766f99489fb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8680eb21cf9af450ee3127ec587f57ac\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8680eb21cf9af450ee3127ec587f57ac\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\be59582b97dcdb84b13d4f5ca7dbdfc6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\be59582b97dcdb84b13d4f5ca7dbdfc6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8680eb21cf9af450ee3127ec587f57ac\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.rasdewyanti.hadiahprak10.MainActivity
+ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.rasdewyanti.hadiahprak10.SecondActivity
+ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:19:9-20:20
+	android:name
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml:19:19-49
+uses-sdk
+INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\686f0a1bd538f973bc2c10a49655c65f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\686f0a1bd538f973bc2c10a49655c65f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a2348dc644cc41a3fedaf766f99489fb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a2348dc644cc41a3fedaf766f99489fb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8f38386ac9d51f9615fc2503e13bd304\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8f38386ac9d51f9615fc2503e13bd304\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ffc992d0d7639c50afc0b7699328e76d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ffc992d0d7639c50afc0b7699328e76d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0ab36e1cd3a2196f638b4639d7f0f09f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0ab36e1cd3a2196f638b4639d7f0f09f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0a7c22ab0c0c2113fc03ef31547f356d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0a7c22ab0c0c2113fc03ef31547f356d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4215acd4c4b3e07ee494b0fa10c1df7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4215acd4c4b3e07ee494b0fa10c1df7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9eb9ddf437daf23d42eee88c7e912951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9eb9ddf437daf23d42eee88c7e912951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7da35480f1bfbdd781ce0f43f588a515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7da35480f1bfbdd781ce0f43f588a515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\54c26da227bed4a5fe48e43e98e186ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\54c26da227bed4a5fe48e43e98e186ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6c30a1b841f95e8221fe7641a7da8b55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6c30a1b841f95e8221fe7641a7da8b55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\53f6ce7575f0beda3edf3bdc35fcc1b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\53f6ce7575f0beda3edf3bdc35fcc1b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\80437be95b5ab89ea7fd531e3ded4457\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\80437be95b5ab89ea7fd531e3ded4457\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e3e2d62744ed2d3d7460778b01cd28d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e3e2d62744ed2d3d7460778b01cd28d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\421f1ec3ee18480f50d6000cb0d55812\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\421f1ec3ee18480f50d6000cb0d55812\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8680eb21cf9af450ee3127ec587f57ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8680eb21cf9af450ee3127ec587f57ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\be59582b97dcdb84b13d4f5ca7dbdfc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\be59582b97dcdb84b13d4f5ca7dbdfc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a3761f117d0a590edf41ce553a100d25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a3761f117d0a590edf41ce553a100d25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\700c5efa7c926e8e90d2bc1f6b558bc7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\700c5efa7c926e8e90d2bc1f6b558bc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5574a81e6917ac27530bbd0f65fccdea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5574a81e6917ac27530bbd0f65fccdea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\33f2adeed896209531e544f22ffb2df2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\33f2adeed896209531e544f22ffb2df2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c7f2eb3560c2498098560727b9adb36a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c7f2eb3560c2498098560727b9adb36a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ecd4c90237d17a24e042edd87fbb4979\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ecd4c90237d17a24e042edd87fbb4979\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e6435fd0427a0f5bd2a48cba71efab6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e6435fd0427a0f5bd2a48cba71efab6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c0b9a7d2747d6b7de053e1b63dfebb83\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c0b9a7d2747d6b7de053e1b63dfebb83\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7061255e048f3e3a0a50165d017522da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7061255e048f3e3a0a50165d017522da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d490c62f6807a6cf8f54bdfd6de85a2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Rasdewyanti\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d490c62f6807a6cf8f54bdfd6de85a2a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rasdewyanti\AndroidStudioProjects\HadiahPrak10\app\src\main\AndroidManifest.xml
